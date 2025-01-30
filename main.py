@@ -1,8 +1,9 @@
+
 # print("Hello World")
 
 import pyautogui
 import time
-import pandas
+import pandas  
 
 pyautogui.PAUSE = .5
 
